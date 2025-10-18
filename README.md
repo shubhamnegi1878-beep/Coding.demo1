@@ -1,5 +1,6 @@
 # Coding.demo1
 This is my Git Repositry
 <br>
-Author -Shubham Negi
-hello world
+Author -Shubham
+hello friends
+
